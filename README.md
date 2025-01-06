@@ -30,7 +30,6 @@ A project to develop a cryptocurrency trading bot that explores and implements m
 - Geth 1.14.12
 
 ### Installation
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/YassObeid/QuantStrategy.git
-   cd trading-bot
